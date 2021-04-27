@@ -4,8 +4,8 @@
 I'm a second year in University studying Computer Science and looking for an internship.
 
 #### What I do
-- I'm improving my Java.
-- I'm currently learning Bash.
+- I'm improving my Java and Python.
+- I'm currently learning Javascript.
 - Always learning about programming.
 
 #### Get to know more about me or reach out
