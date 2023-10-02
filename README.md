@@ -3,7 +3,7 @@
 #### About Me
 I'm a student at University studying Cloud Computing. Recently, I interned with AWS as a Cloud Support Associate, where I expanded my knowledge and got hands-on experience with the cloud.
 
-#### What I do
+#### What I am doing
 - I'm improving Python.
 - I'm currently learning Golang.
 - Learning about the cloud and programming.
